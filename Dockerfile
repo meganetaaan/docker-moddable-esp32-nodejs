@@ -1,4 +1,4 @@
-FROM meganetaaan/moddable-esp32
+FROM tiryoh/moddable-esp32
 LABEL maintainer=meganetaaan
 
 RUN curl -SL https://deb.nodesource.com/setup_12.x | bash
